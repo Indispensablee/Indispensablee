@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Indispensablee
+- 👋 Hi, I’m Indispensable
 - 👀 I’m interested in Technical Writing
 - 🌱 I’m currently learning how to write and code 
 - 💞️ I’m looking to collaborate on Technical Writing projects
